@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://j50dfi6j6pnq"
+path="res://.godot/imported/DoorModelTri.obj-fac1ab32698481ccec3e855c3a407719.mesh"
+
+[deps]
+
+files=["res://.godot/imported/DoorModelTri.obj-fac1ab32698481ccec3e855c3a407719.mesh"]
+
+source_file="res://DoorModelTri.obj"
+dest_files=["res://.godot/imported/DoorModelTri.obj-fac1ab32698481ccec3e855c3a407719.mesh", "res://.godot/imported/DoorModelTri.obj-fac1ab32698481ccec3e855c3a407719.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
